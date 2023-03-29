@@ -25,5 +25,4 @@ yarn-error.log*
 next-env.d.ts
 
 .config/code-server
-project/*
-project/.*
+project/*app
